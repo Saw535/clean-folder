@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: clean
+Version: 0.1
+Summary: scripts clean folder and normalize file name
+Author: []
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3.7
+License-File: LICENSE
